@@ -1,19 +1,19 @@
-   # Visual Studio
-   .vs/
-   *.suo
-   *.user
-   *.userosscache
-   *.sln.docstates
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-   # Build output
-   [Bb]in/
-   [Oo]bj/
-   [Dd]ebug/
-   [Rr]elease/
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
 
-   # NuGet packages (restored automatically on build)
-   packages/
+# NuGet packages (restored automatically on build)
+packages/
 
-   # Local activity database (personal usage data)
-   *.db
-   *.db-journal
+# Local activity database (personal usage data)
+*.db
+*.db-journal
