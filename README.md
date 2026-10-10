@@ -84,7 +84,7 @@ Microsoft.Win32	Session events (SystemEvents) and the Windows startup entry (Reg
 Visual Studio 2022	The solution file (.sln) was created with this version
 5. Project structure
 text
-AktiviteTakipSistemi/
+Activity_Tracking_System/
 ├── AktiviteTakipSistemi.sln
 ├── README.md                       # Turkish documentation
 ├── README.en.md                    # English documentation
@@ -113,7 +113,7 @@ Requirements: Windows (Windows 10 or later is recommended for Modern Standby sle
 Method A — With Visual Studio (recommended)
 Clone the repository:
 bash
-   git clone https://github.com/berkaycinar-dev/AktiviteTakipSistemi.git
+   git clone https://github.com/berkaycinar-dev/Activity_Tracking_System.git
 Open AktiviteTakipSistemi.sln in Visual Studio.
 Wait for the NuGet packages to restore automatically. If they don't, use Solution → right-click → Restore NuGet Packages.
 Choose Debug or Release in the toolbar.
@@ -122,7 +122,7 @@ Method B — Building from the command line
 Open the Visual Studio Developer Command Prompt.
 Go into the repository folder:
 bat
-   cd AktiviteTakipSistemi
+   cd Activity_Tracking_System
 Restore the packages (if nuget.exe is not installed, download it from nuget.org and add it to PATH):
 bat
    nuget restore AktiviteTakipSistemi.sln
