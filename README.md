@@ -1,3 +1,5 @@
+**🌐 Language / Dil:** English | [Türkçe](README.tr.md)
+
 # Activity Tracking System — Windows Computer Activity and Work-Time Tracker
  
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
@@ -114,8 +116,8 @@ The reports (`ReportAnalyst`) sort the selected day's records by time and add **
 ```text
 Activity_Tracking_System/
 ├── AktiviteTakipSistemi.sln
-├── README.md                       # Turkish documentation
-├── README.en.md                    # English documentation
+├── README.md                       # English documentation
+├── README.tr.md                    # Turkish documentation
 ├── .gitignore
 └── AktiviteTakipSistemi/
     ├── AktiviteTakipSistemi.csproj
